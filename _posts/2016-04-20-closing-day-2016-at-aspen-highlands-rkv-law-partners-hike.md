@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Closing Day 2016 at Aspen Highlands - RKV Law partners hike and ski the bowl on a beautiful Spring day.
-datePublished: '2016-04-20T21:30:58.386Z'
-dateModified: '2016-04-20T21:30:25.595Z'
+datePublished: '2016-04-20T22:03:09.825Z'
+dateModified: '2016-04-20T22:02:42.843Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-20-closing-day-2016-at-aspen-highlands-rkv-law-partners-hike.md
