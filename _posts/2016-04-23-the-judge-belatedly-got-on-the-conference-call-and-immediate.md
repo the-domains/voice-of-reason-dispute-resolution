@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'The judge belatedly got on the conference call and immediately lambasted my poor opposing counsel, who had asked for a brief extension to conduct discovery since his wife had just barely survived open-heart surgery.Ironically, the judge has taken more than six months to rule on a matter that, although simple, would have outsized effects on the efficiency and potential resolution of the lawsuit.For that transgression, she offered nothing but excuses:she was just too busy to pay attention to the case.I put the phone down and was even more disgusted than usual with our court system.Something must be done.If budgets will not allow for more judges and more clerks, we need to shrink the amount of cases clogging our courts.A simple solution presents itself:make mediation mandatory before a lawsuit can be filed.'
-datePublished: '2016-04-23T19:18:20.355Z'
-dateModified: '2016-04-23T19:11:28.948Z'
+datePublished: '2016-04-23T20:25:42.931Z'
+dateModified: '2016-04-23T20:22:55.351Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-23-the-judge-belatedly-got-on-the-conference-call-and-immediate.md
