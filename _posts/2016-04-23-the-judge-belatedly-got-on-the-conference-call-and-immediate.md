@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'The judge belatedly got on the conference call and immediately lambasted my poor opposing counsel, who had asked for a brief extension to conduct discovery since his wife had just barely survived open-heart surgery.Ironically, the judge has taken more than six months to rule on a matter that, although simple, would have outsized effects on the efficiency and potential resolution of the lawsuit.For that transgression, she offered nothing but excuses:she was just too busy to pay attention to the case.I put the phone down and was even more disgusted than usual with our court system.Something must be done.If budgets will not allow for more judges and more clerks, we need to shrink the amount of cases clogging our courts.A simple solution presents itself:make mediation mandatory before a lawsuit can be filed.'
-datePublished: '2016-04-23T19:10:41.738Z'
-dateModified: '2016-04-23T19:10:27.879Z'
+datePublished: '2016-04-23T19:18:20.355Z'
+dateModified: '2016-04-23T19:11:28.948Z'
+title: ''
+author: []
+sourcePath: _posts/2016-04-23-the-judge-belatedly-got-on-the-conference-call-and-immediate.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: ''
-author: []
 starred: false
-sourcePath: _posts/2016-04-23-the-judge-belatedly-got-on-the-conference-call-and-immediate.md
-published: true
 url: the-judge-belatedly-got-on-the-conference-call-and-immediate/index.html
 _type: Article
 
@@ -34,12 +34,4 @@ It would be extremely simple to implement a pre-litigation mediation requirement
 
 This formal requirement would augment what is already being done via private contract.More and more industries are awakening to the benefits of mediation.The Colorado Real Estate Commission default purchase/sale contracts all contain a pre-litigation mediation requirement.Construction professionals are also heading in that direction.The most ripe frontier is homeowners' associations, who could write mediation requirements into their governing documents.Combining a top-down court mandate with the grassroots support of key organizations will allow the drive to mediation to reach a crucial tipping point.
 
-With a healthy
-percentage of their potential cases already addressed, our judges would be
-freed to devote more time and attention to those cases that truly need to be in
-litigation.Litigants will experience
-far higher levels of satisfaction with the legal process if they are able to
-receive timely justice instead of waiting months and years for judges to make routine
-decisions.Far from being a utopian
-dream, this future is eminently and quickly attainable.Spread the word that pre-litigation mediation
-can reform a broken system!
+With a healthy percentage of their potential cases already addressed, our judges would be freed to devote more time and attention to those cases that truly need to be in litigation.Litigants will experience far higher levels of satisfaction with the legal process if they are able to receive timely justice instead of waiting months and years for judges to make routine decisions.Far from being a utopian dream, this future is eminently and quickly attainable.Spread the word that pre-litigation mediation can reform a broken system!
