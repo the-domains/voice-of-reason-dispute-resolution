@@ -1,4 +1,4 @@
-name: Voice Of Reason Dispute Resolution
+name: RESOLVING CONFLICT THROUGH MEDIATION
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.75405
@@ -23,7 +23,7 @@ color:
     - '#79a7d6'
     - '#d2e2f1'
   brandStrength: 0.8125
-  lightness: 0.6875
+  lightness: 0.875
   saturation: 0
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.25
 purpose: []
