@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: CONTACT INFORMATION
-datePublished: '2016-04-23T20:22:37.335Z'
-dateModified: '2016-04-23T19:16:44.482Z'
+datePublished: '2016-04-23T20:23:47.172Z'
+dateModified: '2016-04-23T20:23:35.215Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-20-contact-information.md
@@ -17,7 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: true
+starred: false
 url: contact-information/index.html
 _type: Article
 
