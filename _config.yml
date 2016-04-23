@@ -1,7 +1,7 @@
 name: Voice Of Reason Dispute Resolution
 favicon: null
-layout_spectrum: 0.50506
-typography_spectrum: 0.48915
+layout_spectrum: 0.52433
+typography_spectrum: 0.75405
 title: Mediation and Dispute Resolution Services
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#79a7d6'
     - '#d2e2f1'
   brandStrength: 0.8125
-  lightness: 0.75
-  saturation: 0.5625
+  lightness: 0.375
+  saturation: 0
   rhythmicContrast: 0.5
 purpose: []
