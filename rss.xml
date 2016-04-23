@@ -4,21 +4,21 @@
         <description><![CDATA[Voice Of Reason Dispute Resolution]]></description>
         <link>http://voiceofreasondisputeresolution.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 16:51:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2016 16:51:37 GMT</lastBuildDate>
         <atom:link href="http://voiceofreasondisputeresolution.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>CONTACT INFORMATION</p>]]></description>
+            <link>http://voiceofreasondisputeresolution.com/contact-information/index.html</link>
+            <guid isPermaLink="false">546990fc-24a5-4ab4-8e5f-59a0f89fddda</guid>
+            <pubDate>Sat, 23 Apr 2016 16:51:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/87be1497-345c-4f9a-b867-8f87a9b5b641.jpg">]]></description>
             <link>http://voiceofreasondisputeresolution.com/closing-day-2016-at-aspen-highlands-rkv-law-partners-hike/index.html</link>
             <guid isPermaLink="false">1141477d-d448-45a9-b851-f2d95da5b23d</guid>
             <pubDate>Sat, 23 Apr 2016 16:50:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>CONTACT INFORMATION</p>]]></description>
-            <link>http://voiceofreasondisputeresolution.com/contact-information/index.html</link>
-            <guid isPermaLink="false">546990fc-24a5-4ab4-8e5f-59a0f89fddda</guid>
-            <pubDate>Wed, 20 Apr 2016 21:42:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
