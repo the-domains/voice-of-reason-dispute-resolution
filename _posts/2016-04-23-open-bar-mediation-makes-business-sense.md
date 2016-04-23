@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'As a vehement proponent of the magic of mediation, I frequently feel like a voice crying in the wilderness.While there are an increasing number of people embracing the potential of mediation, there are many who regard the process with contempt.This group is disproportionately comprised of high-powered business people and old-school litigators.In their misguided view, talking through their issues is too touchy-feely, the domain of hippies and mystics. They see mediation as the coward’s way out of a conflict.I find that perspective to be a massive pile of equine excrement.But their perception of mediation as “new-age” is at least partially correct:there is no doubt that mediation is the future of dispute resolution.Not only can it meet the needs of families in crisis or neighbors at each other’s throat, but it is a boon to the bottom-line.'
-datePublished: '2016-04-23T19:16:08.536Z'
-dateModified: '2016-04-23T19:15:39.474Z'
+datePublished: '2016-04-23T19:18:37.153Z'
+dateModified: '2016-04-23T19:18:03.426Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-23-open-bar-mediation-makes-business-sense.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-23-open-bar-mediation-makes-business-sense.md
-published: true
 url: open-bar-mediation-makes-business-sense/index.html
 _type: Article
 
@@ -32,12 +32,4 @@ Mediation can be a powerful prophylactic to these ills.At the first sign of trou
 
 Mediators are trained to hone in on the roots of conflict, bring them to the fore, and use that catharsis to allow the parties themselves to come to a suitable resolution.A voluntary process, it may not always work, but the chances for success are heightened if the parties buy into the method.This starts at the top:if the boss thinks it is a good idea, the lower echelons are likely to agree.Creating a company culture that faces its challenges instead of sweeping them under the rug instills confidence in the employees and may have lasting effects on retention and productivity.
 
-To
-engage in mediation is to open oneself up.This can be daunting because it is not easy to predict which buttons may
-be pushed.But the modern workplace must
-be increasingly comfortable with an open exchange of ideas and emotions.For an employer to learn about its employees
-in this context will allow for the creation of strategies that maximizes
-everyone's success.Imagine what can be
-learned from an open dialogue with a competitor:not trade secrets, but best practices and
-opportunities for collaboration. Welcome
-to business in 2015\.
+To engage in mediation is to open oneself up.This can be daunting because it is not easy to predict which buttons may be pushed.But the modern workplace must be increasingly comfortable with an open exchange of ideas and emotions.For an employer to learn about its employees in this context will allow for the creation of strategies that maximizes everyone's success.Imagine what can be learned from an open dialogue with a competitor:not trade secrets, but best practices and opportunities for collaboration. Welcome to business in 2015\.
