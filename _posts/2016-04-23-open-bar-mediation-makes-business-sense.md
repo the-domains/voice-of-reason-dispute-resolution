@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'As a vehement proponent of the magic of mediation, I frequently feel like a voice crying in the wilderness.While there are an increasing number of people embracing the potential of mediation, there are many who regard the process with contempt.This group is disproportionately comprised of high-powered business people and old-school litigators.In their misguided view, talking through their issues is too touchy-feely, the domain of hippies and mystics. They see mediation as the coward’s way out of a conflict.I find that perspective to be a massive pile of equine excrement.But their perception of mediation as “new-age” is at least partially correct:there is no doubt that mediation is the future of dispute resolution.Not only can it meet the needs of families in crisis or neighbors at each other’s throat, but it is a boon to the bottom-line.'
-datePublished: '2016-04-23T19:18:37.153Z'
-dateModified: '2016-04-23T19:18:03.426Z'
+datePublished: '2016-04-24T21:18:03.643Z'
+dateModified: '2016-04-24T20:58:19.123Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-23-open-bar-mediation-makes-business-sense.md
